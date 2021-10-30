@@ -24,5 +24,5 @@ Automates the creation of google sites. Manual Demonstration: https://www.youtub
     Web Scraping, Web Automation, Python, Flask, Pandas, Multithreading
 
 #### Front-end:
-<a><img src="https://imgur.com/a/IsQN8W7"></a>
+<a><img src="https://i.imgur.com/R6lGeWX.png"></a>
 
