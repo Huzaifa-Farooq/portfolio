@@ -4,6 +4,8 @@
 Automates the creation of google sites. Manual Demonstration: https://www.youtube.com/embed/E104DWvByQA.
 [![Manual demonstreation](https://img.youtube.com/vi/E104DWvByQA/0.jpg)](https://www.youtube.com/watch?v=E104DWvByQA)
 
+<a href="https://www.youtube.com/watch?v=E104DWvByQA" target="_blank"><img src="https://img.youtube.com/vi/E104DWvByQA/0.jpg"></a>
+
 Required features::
 1.. Look for a row with City & State where no URL is stored. Read Keyword & City State from excel file.
 2. Tool will open a new chrome window.
