@@ -13,3 +13,9 @@ Automates the creation of google sites. Manual Demonstration: https://www.youtub
   6. Copy Published link
   7. Document it into xlsx file the Published link URL
   8. Allows user to start and stop automation by clicking Start and Sop buttons.
+
+** Lanuguages/Libraries used: 
+  * Python: Programming Language.
+  * Pandas: For data wrangling.
+  * Selenium: For Automation.
+  * Flask: For Front-end UI.
