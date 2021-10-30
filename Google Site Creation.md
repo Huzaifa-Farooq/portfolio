@@ -22,6 +22,14 @@ Automates the creation of google sites. Manual Demonstration: https://www.youtub
   * ***Flask***: For Front-end UI.
 ##### Skills: 
     Web Scraping, Web Automation, Python, Flask, Pandas, Multithreading
+##### Operation of Automation Tool - Step by Step:
+  1. Look for a row with City & State where no URL is stored. Read Keyword & City State from excel file.
+  2. Tool will take over the page I have opened
+  3. Duplicate an existing page & Input Keyword & City State Combination as page title
+  4. Put same Keyword & City State and replace the existing title.
+  5. Click Publish
+  6. Copy Published link
+  7. Document it into xlsx file the Published link URL
 
 #### Front-end:
 <a><img src="https://i.imgur.com/R6lGeWX.png"></a>
